@@ -4,7 +4,6 @@ This package contains Python and R code for preparing, cleaning, exploring, and 
 
 ## Contents
 - `Netflix_shows_movies.csv` — Original dataset copy (renamed).
-- `Netflix_shows_movies_cleaned.csv` — Cleaned dataset after processing.
 - `raw_head.csv` — First 20 rows preview of the raw dataset.
 - `data_description.csv` — Descriptive statistics of the dataset.
 - `genre_counts.csv` — Frequencies of genres (proxy for "most watched").
